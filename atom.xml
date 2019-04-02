@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>过载青年的Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://assassinccc.github.io/"/>
+  <updated>2019-04-02T12:27:35.208Z</updated>
+  <id>https://assassinccc.github.io/</id>
+  
+  <author>
+    <name>崔王宁</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>newpapername</title>
+    <link href="https://assassinccc.github.io/2019/04/02/newpapername/"/>
+    <id>https://assassinccc.github.io/2019/04/02/newpapername/</id>
+    <published>2019-04-02T12:27:35.000Z</published>
+    <updated>2019-04-02T12:27:35.208Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://assassinccc.github.io/2019/04/02/hello-world/"/>
+    <id>https://assassinccc.github.io/2019/04/02/hello-world/</id>
+    <published>2019-04-02T07:01:23.137Z</published>
+    <updated>2019-04-02T07:01:23.137Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
