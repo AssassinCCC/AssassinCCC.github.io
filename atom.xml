@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://assassinccc.github.io/"/>
-  <updated>2019-04-03T02:54:30.196Z</updated>
+  <updated>2019-04-03T11:23:49.096Z</updated>
   <id>https://assassinccc.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test文档</title>
+    <title>Hexo建站小结</title>
     <link href="https://assassinccc.github.io/2019/04/02/newpapername/"/>
     <id>https://assassinccc.github.io/2019/04/02/newpapername/</id>
-    <published>2019-04-02T12:27:35.000Z</published>
-    <updated>2019-04-03T02:54:30.196Z</updated>
+    <published>2019-04-02T12:27:00.000Z</published>
+    <updated>2019-04-03T11:23:49.096Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,10 @@
       
         
         
-          &lt;p&gt;这是一篇测试文章分类的文档&lt;/p&gt;
+          &lt;p&gt;这两天用githubpages+Hexo建立自己的博客，其实有这样的想法很久了，但是一拖再拖到了现在。过程中遇到了很多问题，有的现在还没解决。但计划暂时搁置一下，因为还有其他重要的事做，改日来填&lt;/p&gt;
 
+&lt;p&gt;. 还没有解决的问题&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 
         
       
     
