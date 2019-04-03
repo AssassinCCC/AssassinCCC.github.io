@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hexo建站小结]]></title>
     <url>%2F2019%2F04%2F02%2Fnewpapername%2F</url>
-    <content type="text"><![CDATA[这两天用githubpages+Hexo建立自己的博客，其实有这样的想法很久了，但是一拖再拖到了现在。过程中遇到了很多问题，有的现在还没解决。但计划暂时搁置一下，因为还有其他重要的事做，改日来填 . 还没有解决的问题 1. 站内的人数统计（已添加，但默认diplay：none，无法显示） 2. 阅读统计（时间、阅读次数（post内部可显示，主页面显示空白），人数统计） 3. 评论系统，测试了valine，只显示评论数，无法显示评论系统 原本计划顺利还想要添加更多的插件和主题设置，现在暂时进行不下去了。主要参考了这些资料 https://www.jianshu.com/p/21c94eb7bcd1 https://www.jianshu.com/p/3a05351a37dc http://theme-next.iissnan.com/theme-settings.html https://blog.csdn.net/qq_33699981/article/details/72716951]]></content>
+    <content type="text"><![CDATA[这两天用githubpages+Hexo建立自己的博客，其实有这样的想法很久了，但是一拖再拖到了现在。过程中遇到了很多问题，有的现在还没解决。但计划暂时搁置一下，因为还有其他重要的事做，改日来填 . 还没有解决的问题 1. 站内的人数统计（已添加，但默认display：none，无法显示） 2. 阅读统计（时间、阅读次数（post内部可显示，主页面显示空白），人数统计） 3. 评论系统，测试了valine，只显示评论数，无法显示评论系统 原本计划顺利还想要添加更多的插件和主题设置，现在暂时进行不下去了。主要参考了这些资料 https://www.jianshu.com/p/21c94eb7bcd1 https://www.jianshu.com/p/3a05351a37dc http://theme-next.iissnan.com/theme-settings.html https://blog.csdn.net/qq_33699981/article/details/72716951]]></content>
       <categories>
         <category>博客相关</category>
       </categories>
